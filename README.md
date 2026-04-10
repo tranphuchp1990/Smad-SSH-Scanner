@@ -1,11 +1,11 @@
 Smad SSH Scanner is a high-quality free SSH scanner that scans SSH from over 200 countries
 
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/Smad_SSH_Scanner.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
-  <a href="">Watch Demo Video</a></br>
-  <a href="">Watch Demo Video</a>
+  <a href="https://www.youtube.com/watch?v=YX_4Tme6dEA">Watch Demo Video</a></br>
+  <a href="https://odysee.com/@SoftHatch:5/Smad-ssh-scanner:9?src=embed">Watch Demo Video</a>
 </p>
 
 <h2>📬 Contact</h2>
